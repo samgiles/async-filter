@@ -1,0 +1,6 @@
+{
+  "name": "async-filter",
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
+}
